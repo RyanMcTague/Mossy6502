@@ -1,10 +1,4 @@
-//
-// Created by Ryan on 11/22/23.
-//
-
-#ifndef MOSSY6502_BASE_H
-#define MOSSY6502_BASE_H
-
+#pragma once
 #include <spdlog/spdlog.h>
 #include <cstdint>
 #include <iostream>
@@ -12,5 +6,3 @@
 #include <SDL2/SDL.h>
 #include <cmath>
 #include <utility>
-
-#endif //MOSSY6502_BASE_H

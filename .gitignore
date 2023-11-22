@@ -1,6 +1,5 @@
 node_modules
 build
-cmake-build-debug
 *.DS_Store
 /.vscode
 /.idea
